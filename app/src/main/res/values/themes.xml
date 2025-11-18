@@ -1,0 +1,8 @@
+<resources>
+
+    <!-- Base app theme with action bar support -->
+    <style name="Theme.Unit3Part1" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Customize your theme colors if you want -->
+    </style>
+
+</resources>
